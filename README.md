@@ -1,10 +1,11 @@
-Bref :2
+Bref :3
 
 http://localhost/wordpress/wp-admin/#
 
 #saisir les informations
 
 Username or Email Address :askhatir7@gmail.com .
+
 Password : 1234567 .
 
 #Les étape de cette bref
